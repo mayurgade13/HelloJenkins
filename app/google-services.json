@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "789043356021",
+    "project_id": "deeplink-tester-6e4e4",
+    "storage_bucket": "deeplink-tester-6e4e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789043356021:android:7269820018b4e27988333c",
+        "android_client_info": {
+          "package_name": "com.mgade.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwkD5t6pAhvzlM4JepNTb_pY1hPOmMRqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

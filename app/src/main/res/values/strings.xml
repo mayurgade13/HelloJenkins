@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloJenkins</string>
+    <string name="main_screen">Main Screen</string>
+    <string name="desc_sample_image">sample image</string>
+</resources>
