@@ -566,8 +566,6 @@ style:
   ExpressionBodySyntax:
     active: false
     includeLineWrapping: false
-  NoUnusedImports:
-    active: true
   ForbiddenAnnotation:
     active: false
     annotations:
